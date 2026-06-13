@@ -1,0 +1,9 @@
+geopandas
+rasterio
+shapely
+numpy
+pandas
+opencv-python
+scikit-image
+matplotlib
+Pillow
